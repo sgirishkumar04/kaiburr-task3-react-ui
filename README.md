@@ -53,7 +53,7 @@ This project is a frontend user interface built with React, TypeScript, and Ant 
 
 *Shows the table with existing tasks.*
 
-![Main View](path/to/your/screenshot-main-view.png)
+![Main View](screenshot-main-view.png)
 
 #### 2. Create Task Modal
 
