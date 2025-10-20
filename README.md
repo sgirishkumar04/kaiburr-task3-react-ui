@@ -59,16 +59,16 @@ This project is a frontend user interface built with React, TypeScript, and Ant 
 
 *The form for creating a new task.*
 
-![Create Task Modal](path/to/your/screenshot-create-modal.png)
+![Create Task Modal](screenshot-main-view.png)
 
 #### 3. Searching for a Task
 
 *Shows the filtered results after a search.*
 
-![Search Results](path/to/your/screenshot-search.png)
+![Search Results](screenshot-search.png)
 
 #### 4. Viewing Command Execution Output
 
 *The modal showing the output from running a command.*
 
-![Execution Output Modal](path/to/your/screenshot-output-modal.png)
+![Execution Output Modal](screenshot-output-modal.png)
